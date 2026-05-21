@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "NoNameSSMMPP",
+    "ip": "NoNameSSMMPP.aternos.me",
     "port": 27693,
     "version": "1.20.1",
     "try-creative": false
